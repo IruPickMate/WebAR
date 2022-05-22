@@ -1,0 +1,17 @@
+{
+"companyName": "Idde Robotics",
+"productName": "Idde Web AR",
+"productVersion": "0.1",
+"dataUrl": "build.data.unityweb",
+"wasmCodeUrl": "build.wasm",
+"wasmFrameworkUrl": "build.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "build.jpg",
+"splashScreenStyle": "Dark",
+
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.36f1"
+}
